@@ -1,1 +1,1 @@
-# git_test
+This is Katie's first git project!
